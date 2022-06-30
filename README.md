@@ -1,6 +1,6 @@
-# Rust Katas
+# Disemvowel Trolls
 
-> Code algorithms using rust.
+> Code Wars : 7kyu
 
 ## Instructions
 
